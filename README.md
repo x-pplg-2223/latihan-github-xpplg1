@@ -1,2 +1,2 @@
-nama : mar'atul /n
-kelas : x pplg 1
+- nama : mar'atul
+- kelas : x pplg 1
