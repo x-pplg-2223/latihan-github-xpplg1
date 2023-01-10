@@ -1,12 +1,12 @@
 # Belajar menggunakan Git
 
-- Nama              : Ahmad JUmadi
-- Kelas             :
-- Hobi              :
-- Cita-cita         :
-- Alasan Masuk PPLG :
+- Nama              : Misael Christopher
+- Kelas             : X PPLG 1
+- Hobi              : Mengoding
+- Cita-cita         : Menjadi Programmer Fullstrak Developer
+- Alasan Masuk PPLG : Programmer adalah pekerjaan yang dibutuhkan saat ini
 
 --- I Love Coding Pake Banget ---
 
 # SMKN 1 Karawang
-![Neskar](img/smkn.png)
+![Neskar](https://i.top4top.io/p_2566qghwh1.jpeg)
