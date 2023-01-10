@@ -1,6 +1,6 @@
 # Belajar menggunakan Git
 
-- Nama              : syahrul Ghofar pratama
+- Nama              : Syahrul Ghofar Pratama
 - Kelas             : x pplg 1
 - Hobi              : makan batu
 - Cita-cita         : nguasai dunia
@@ -9,4 +9,4 @@
 --- I Love Coding Pake Banget ---
 
 # SMKN 1 Karawang
-![Neskar](img/fotosyhroll.png)
+![FOTO SYAHRUL](img/fotosyhroll.png)
