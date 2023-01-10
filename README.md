@@ -9,4 +9,4 @@
 --- I Love Coding Pake Banget ---
 
 # SMKN 1 Karawang
-![Neskar](img/smkn.png)
+![Neskar](img/fajril.jpeg)
