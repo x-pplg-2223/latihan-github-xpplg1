@@ -1,12 +1,12 @@
 # Belajar menggunakan Git
 
-- Nama              : Ahmad JUmadi
+- Nama              : 
 - Kelas             :
-- Hobi              :
-- Cita-cita         :
-- Alasan Masuk PPLG :
+- Hobi              : 
+- Cita-cita         : 
+- Alasan Masuk PPLG : 
 
 --- I Love Coding Pake Banget ---
 
 # SMKN 1 Karawang
-![Neskar](img/smkn.png)
+![Neskar](img/test.png)
