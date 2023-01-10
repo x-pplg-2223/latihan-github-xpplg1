@@ -1,12 +1,12 @@
 # Belajar menggunakan Git
 
-- Nama              : Ahmad JUmadi
-- Kelas             :
-- Hobi              :
-- Cita-cita         :
-- Alasan Masuk PPLG :
+- Nama              : Dyandra Wahyu Islamy
+- Kelas             : X PPLG 1
+- Hobi              : Baca komik
+- Cita-cita         : Khusnulkhotimah
+- Alasan Masuk PPLG : Sesuai dengan minat
 
 --- I Love Coding Pake Banget ---
 
 # SMKN 1 Karawang
-![Neskar](img/smkn.png)
+![Neskar](img/Foto.jpeg)
