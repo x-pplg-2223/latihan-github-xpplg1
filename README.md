@@ -1,12 +1,12 @@
 # Belajar menggunakan Git
 
-- Nama              : Ahmad JUmadi
-- Kelas             :
-- Hobi              :
-- Cita-cita         :
-- Alasan Masuk PPLG :
+- Nama              : Aretha
+- Kelas             : X PPLG 1
+- Hobi              : Mendengarkan musik
+- Cita-cita         : Psikolog
+- Alasan Masuk PPLG : Ingin belajar komputer
 
 --- I Love Coding Pake Banget ---
 
 # SMKN 1 Karawang
-![Neskar](img/smkn.png)
+![Neskar](img/are.jpeg)
