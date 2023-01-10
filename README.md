@@ -1,8 +1,8 @@
 # Belajar menggunakan Git
 
 - Nama              : Fajril Yusin Supriadi
-- Kelas             :
-- Hobi              :
+- Kelas             : X PPLG 1
+- Hobi              : Berenang
 - Cita-cita         :
 - Alasan Masuk PPLG :
 
