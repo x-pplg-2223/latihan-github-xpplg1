@@ -1,12 +1,12 @@
 # Belajar menggunakan Git
 
-- Nama              : Ahmad JUmadi
-- Kelas             :
-- Hobi              :
-- Cita-cita         :
-- Alasan Masuk PPLG :
+- Nama              : Ovana abdul H
+- Kelas             : x pplg 1
+- Hobi              : Traveling
+- Cita-cita         : pengusaha
+- Alasan Masuk PPLG : pilihan ke 2
 
 --- I Love Coding Pake Banget ---
 
 # SMKN 1 Karawang
-![Neskar](img/smkn.png)
+![Neskar](img/ovana.jpg)
