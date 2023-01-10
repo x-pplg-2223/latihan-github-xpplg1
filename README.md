@@ -1,6 +1,6 @@
 # Belajar menggunakan Git
 
-- Nama              : Ahmad JUmadi
+- Nama              : Akbar Maulana
 - Kelas             :
 - Hobi              :
 - Cita-cita         :
@@ -9,4 +9,4 @@
 --- I Love Coding Pake Banget ---
 
 # SMKN 1 Karawang
-![Neskar](img/smkn.png)
+![Neskar](img/foto.jpeg)
