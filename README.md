@@ -1,12 +1,12 @@
 # Belajar menggunakan Git
 
-- Nama              : Ahmad JUmadi
-- Kelas             :
-- Hobi              :
-- Cita-cita         :
-- Alasan Masuk PPLG :
+- Nama              : Nadia rizky alifah
+- Kelas             : X PPLG 1
+- Hobi              : mendengarkan musik
+- Cita-cita         : polwan
+- Alasan Masuk PPLG : karena pilihan kedua
 
 --- I Love Coding Pake Banget ---
 
 # SMKN 1 Karawang
-![Neskar](img/smkn.png)
+![Neskar](img/nadia.png)
