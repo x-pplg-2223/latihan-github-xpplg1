@@ -2,9 +2,9 @@
 
 - Nama              : Akbar Maulana
 - Kelas             : x pplg 1
-- Hobi              :
-- Cita-cita         :
-- Alasan Masuk PPLG :
+- Hobi              : Bola
+- Cita-cita         : Software developer
+- Alasan Masuk PPLG : belajar dunia pemrograman
 
 --- I Love Coding Pake Banget ---
 
