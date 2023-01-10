@@ -1,12 +1,12 @@
 # Belajar menggunakan Git
 
-- Nama              : Ahmad JUmadi
-- Kelas             :
-- Hobi              :
-- Cita-cita         :
-- Alasan Masuk PPLG :
+- Nama              : Achmad Firdaus Thesar
+- Kelas             : X PPLG 1
+- Hobi              : Ngegitar & Mendengarkan musik
+- Cita-cita         : TNI
+- Alasan Masuk PPLG : Ingin mengenal tentang perkodingan
 
 --- I Love Coding Pake Banget ---
 
 # SMKN 1 Karawang
-![Neskar](img/smkn.png)
+![Neskar](img/mati.jpeg)
