@@ -1,6 +1,6 @@
 # Belajar menggunakan Git
 
-- Nama              :
+- Nama              : Ahmad JUmadi
 - Kelas             :
 - Hobi              :
 - Cita-cita         :
