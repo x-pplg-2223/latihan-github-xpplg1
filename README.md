@@ -1,12 +1,12 @@
 # Belajar menggunakan Git
 
-- Nama              : Ahmad JUmadi
-- Kelas             :
-- Hobi              :
-- Cita-cita         :
-- Alasan Masuk PPLG :
+- Nama              :Rafi Jara Mutiar
+- Kelas             :X pplg1
+- Hobi              :Berenang
+- Cita-cita         :Pelayaran
+- Alasan Masuk PPLG :Karna ingin tahu perduniaan software
 
 --- I Love Coding Pake Banget ---
 
 # SMKN 1 Karawang
-![Neskar](img/smkn.png)
+![Neskar](img/rafij.jpeg)
