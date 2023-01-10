@@ -1,12 +1,12 @@
 # Belajar menggunakan Git
 
-- Nama              : Ahmad JUmadi
-- Kelas             :
-- Hobi              :
-- Cita-cita         :
-- Alasan Masuk PPLG :
+- Nama              : Dynar friestanti yanwar
+- Kelas             : x PPLG 1
+- Hobi              : Baca whattpad
+- Cita-cita         : Polwan
+- Alasan Masuk PPLG : Ingin belajar komputer
 
 --- I Love Coding Pake Banget ---
 
 # SMKN 1 Karawang
-![Neskar](img/smkn.png)
+![foto](img/dynarfries.jpeg)
