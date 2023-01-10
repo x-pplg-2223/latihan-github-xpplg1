@@ -1,12 +1,12 @@
 # Belajar menggunakan Git
 
-- Nama              : Ahmad JUmadi
-- Kelas             :
-- Hobi              :
-- Cita-cita         :
-- Alasan Masuk PPLG :
+- Nama              : Fadhil Hazza Iswadinata 
+- Kelas             : x pplg 1
+- Hobi              : menonton film
+- Cita-cita         : membanggakan orang tua
+- Alasan Masuk PPLG : menambah wawasan tentang teknologi
 
 --- I Love Coding Pake Banget ---
 
 # SMKN 1 Karawang
-![Neskar](img/smkn.png)
+![neskar](img/fadhil.jpeg)
