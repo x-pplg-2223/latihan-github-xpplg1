@@ -1,12 +1,12 @@
 # Belajar menggunakan Git
 
-- Nama              : Ahmad JUmadi
-- Kelas             :
-- Hobi              :
-- Cita-cita         :
-- Alasan Masuk PPLG :
+- Nama              : Hashbi Abdillah
+- Kelas             : X PPLG 1
+- Hobi              : Nonton anime
+- Cita-cita         : Memilikimu sepenuhnya 
+- Alasan Masuk PPLG : Tertarik dengan dunia komputer karena masih jarang peminat
 
 --- I Love Coding Pake Banget ---
 
 # SMKN 1 Karawang
-![Neskar](img/smkn.png)
+![Neskar](img/HASHBEE.png)
