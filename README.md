@@ -3,7 +3,7 @@
 - Nama              : Dyandra Wahyu Islamy
 - Kelas             : X PPLG 1
 - Hobi              : Baca komik
-- Cita-cita         : Khusnulkhotimah
+- Cita-cita         : Programer
 - Alasan Masuk PPLG : Sesuai dengan minat
 
 --- I Love Coding Pake Banget ---
