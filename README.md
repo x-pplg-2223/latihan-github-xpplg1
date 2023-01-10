@@ -1,7 +1,7 @@
 # Belajar menggunakan Git
 
 - Nama              : Akbar Maulana
-- Kelas             :
+- Kelas             : x pplg 1
 - Hobi              :
 - Cita-cita         :
 - Alasan Masuk PPLG :
