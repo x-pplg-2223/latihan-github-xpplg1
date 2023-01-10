@@ -1,12 +1,12 @@
 # Belajar menggunakan Git
 
-- Nama              : Ahmad JUmadi
-- Kelas             :
-- Hobi              :
-- Cita-cita         :
-- Alasan Masuk PPLG :
+- Nama              : Akbar Maulana
+- Kelas             : x pplg 1
+- Hobi              : Bola
+- Cita-cita         : Software developer
+- Alasan Masuk PPLG : belajar dunia pemrograman
 
 --- I Love Coding Pake Banget ---
 
 # SMKN 1 Karawang
-![Neskar](img/smkn.png)
+![Neskar](img/foto.jpeg)
