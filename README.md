@@ -1,12 +1,12 @@
 # Belajar menggunakan Git
 
-- Nama              : Ahmad JUmadi
-- Kelas             :
-- Hobi              :
-- Cita-cita         :
-- Alasan Masuk PPLG :
+- Nama              : Nazwa Sabila
+- Kelas             : X PPLG 1
+- Hobi              : mendengarkan musik
+- Cita-cita         : jaksa
+- Alasan Masuk PPLG : bingung pilih jurusan
 
 --- I Love Coding Pake Banget ---
 
 # SMKN 1 Karawang
-![Neskar](img/smkn.png)
+![Neskar](img/nazwa.png)
