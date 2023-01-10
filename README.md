@@ -4,9 +4,9 @@
 - Kelas             : x pplg 1
 - Hobi              : makan batu
 - Cita-cita         : nguasai dunia
-- Alasan Masuk PPLG : ingin tau dunia coding lebih tau
+- Alasan Masuk PPLG : ingin tau dunia coding lebih dalam
 
 --- I Love Coding Pake Banget ---
 
 # SMKN 1 Karawang
-![Neskar](img/smkn.png)
+![Neskar](img/fotosyhroll.png)
