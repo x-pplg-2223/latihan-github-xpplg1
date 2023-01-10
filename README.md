@@ -1,12 +1,12 @@
 # Belajar menggunakan Git
 
-- Nama              : Ahmad JUmadi
-- Kelas             :
-- Hobi              :
-- Cita-cita         :
-- Alasan Masuk PPLG :
+- Nama              : Arif achmad fauzy
+- Kelas             : X pplg1
+- Hobi              : membaca komik
+- Cita-cita         : menguasai dunia metrobot
+- Alasan Masuk PPLG : keiinginan sendiri
 
 --- I Love Coding Pake Banget ---
 
 # SMKN 1 Karawang
-![Neskar](img/smkn.png)
+![Neskar](img/ariff.jpg)
