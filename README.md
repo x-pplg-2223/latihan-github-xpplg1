@@ -1,10 +1,10 @@
 # Belajar menggunakan Git
 
-- Nama              : 
-- Kelas             :
-- Hobi              : 
-- Cita-cita         : 
-- Alasan Masuk PPLG : 
+- Nama              : Ahmad Jumadi
+- Kelas             : X PPLG 1
+- Hobi              : Sepak Bola
+- Cita-cita         : Guru
+- Alasan Masuk PPLG : Ingin mendalami bidang software engineering
 
 --- I Love Coding Pake Banget ---
 
