@@ -1,6 +1,6 @@
 # Belajar menggunakan Git
 
-- Nama              : Fildan Firdaus
+- Nama              : Fildan Firdian
 - Kelas             : X PPLG 1
 - Hobi              : Nge-game dan nonton anime
 - Cita-cita         : Menguasai asia
@@ -9,4 +9,4 @@
 --- I Love Coding Pake Banget ---
 
 # SMKN 1 Karawang
-![Neskar](img/smkn.png)  (img/Fildan.jpg)
+![Neskar](img/Fildan.jpg)  
