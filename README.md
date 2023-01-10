@@ -1,6 +1,6 @@
 # Belajar menggunakan Git
 
-- Nama              : Ahmad JUmadi
+- Nama              : Fajril Yusin Supriadi
 - Kelas             :
 - Hobi              :
 - Cita-cita         :
