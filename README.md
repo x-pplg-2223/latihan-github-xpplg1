@@ -1,2 +1,7 @@
-- nama : mar'atul
-- kelas : x pplg 1
+- Nama              :
+- Kelas             :
+- Hobi              :
+- Cita-cita         :
+- Alasan Masuk PPLG :
+
+I Love Coding Pake Banget
