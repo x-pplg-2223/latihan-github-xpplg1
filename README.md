@@ -1,12 +1,12 @@
 # Belajar menggunakan Git
 
-- Nama              : Ahmad JUmadi
-- Kelas             :
-- Hobi              :
-- Cita-cita         :
-- Alasan Masuk PPLG :
+- Nama              : Rifa Mazharul Haq
+- Kelas             : X PPLG 1
+- Hobi              : bermsin bola
+- Cita-cita         : web programer profesional
+- Alasan Masuk PPLG : ingin mempelajari lebih dalam ke dunia programing
 
 --- I Love Coding Pake Banget ---
 
 # SMKN 1 Karawang
-![Neskar](img/smkn.png)
+![Neskar](img/nama.jpg)
