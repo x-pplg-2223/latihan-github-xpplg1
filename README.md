@@ -1,12 +1,12 @@
 # Belajar menggunakan Git
 
-- Nama              : Ahmad JUmadi
-- Kelas             :
-- Hobi              :
-- Cita-cita         :
-- Alasan Masuk PPLG :
+- Nama              : Abdan Syakura
+- Kelas             : X PPLG 1 
+- Hobi              : Volley 
+- Cita-cita         : Programmer Handal 
+- Alasan Masuk PPLG : Ingin menguasai ilmu komputer lebih baik 
 
 --- I Love Coding Pake Banget ---
 
 # SMKN 1 Karawang
-![Neskar](img/smkn.png)
+![Neskar](img/1000071465.jpg)
