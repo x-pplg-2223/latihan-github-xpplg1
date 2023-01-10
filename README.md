@@ -1,12 +1,12 @@
 # Belajar menggunakan Git
 
-- Nama              : Ahmad JUmadi
-- Kelas             :
-- Hobi              :
-- Cita-cita         :
-- Alasan Masuk PPLG :
+- Nama              : Nazam Ahmad Fahreyza
+- Kelas             : X PPLG1
+- Hobi              : Berenang
+- Cita-cita         : menjadi programmer 
+- Alasan Masuk PPLG : Ingin bisa coding dan belajar hal baru
 
---- I Love Coding Pake Banget ---
+--- I Love Coding Pake Banget bangetan ---
 
 # SMKN 1 Karawang
-![Neskar](img/smkn.png)
+![Neskar](img/Nazam.jpg)
