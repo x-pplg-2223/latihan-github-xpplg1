@@ -1,10 +1,10 @@
 # Belajar menggunakan Git
 
-- Nama              : Ahmad JUmadi
-- Kelas             :
-- Hobi              :
-- Cita-cita         :
-- Alasan Masuk PPLG :
+- Nama              : syahrul Ghofar pratama
+- Kelas             : x pplg 1
+- Hobi              : makan batu
+- Cita-cita         : nguasai dunia
+- Alasan Masuk PPLG : ingin tau dunia coding lebih tau
 
 --- I Love Coding Pake Banget ---
 
