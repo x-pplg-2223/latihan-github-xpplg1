@@ -1,12 +1,12 @@
 # Belajar menggunakan Git
 
-- Nama              : Ahmad JUmadi
-- Kelas             :
-- Hobi              :
-- Cita-cita         :
-- Alasan Masuk PPLG :
+- Nama              : saskia putri ramadani
+- Kelas             : X PPLG1
+- Hobi              : mendengarkan musik
+- Cita-cita         : pengusaha sukses
+- Alasan Masuk PPLG : ingin belajar komputer
 
 --- I Love Coding Pake Banget ---
 
 # SMKN 1 Karawang
-![Neskar](img/smkn.png)
+![Neskar](img/fotoaku.jpg)
