@@ -1,4 +1,4 @@
-# Belajar menggunakan Git
+## Belajar menggunakan Git
 
 - Nama              : Syahrul Ghofar Pratama
 - Kelas             : x pplg 1
