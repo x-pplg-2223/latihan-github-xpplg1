@@ -14,6 +14,12 @@
 
 # SMKN 1 Karawang
 
+<p align="center" width="100%"> 
+
+  <img width="50%" src="https://cdn.discordapp.com/attachments/931172393702023219/977442962004905994/unknown.png">
+
+</p>
+
 <p align="center" width="100%">
 
   <img width="30%" src="https://github.com/ahmadjumadi/latihan-github-xpplg1/blob/main/img/smkn.png"> 
